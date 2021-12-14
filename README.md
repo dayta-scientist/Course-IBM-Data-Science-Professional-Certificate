@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Professional-Certificate
+# IBM-Data-Science-Professional-Certificate
 Certificate: https://www.coursera.org/account/accomplishments/specialization/certificate/5PGUBD3SQ5RK
 
 There are 9 Courses in this Professional Certificate:
